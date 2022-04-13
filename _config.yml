@@ -1,11 +1,11 @@
 remote_theme: Drassil/git-wiki-theme@master
 # (string) Title of your wiki
-title: "git-wiki-skeleton"
+title: "🐝 Information Hive 🍯"
 # (string) if you've installed your wiki in subfolder, you must change this configuration
 # with your folder name, otherwise leave it empty
-baseurl: "/git-wiki-skeleton"
+baseurl: "/sventek-s-wiki"
 # (string) Description of your wiki
-description:
+description: "Just a dump of things that make my mind hurt and happy at the same time."
 # (boolean) disable edit functionalities (edit/delete/add pages)
 disable_edit: false
 # (boolean) Enable/disable wiki page list in sidebar
@@ -27,7 +27,7 @@ show_downloads: true
 # (string) Specify branch rendered by gitpages allowing wiki tool buttons to work
 git_branch: "master"
 # (string) Url of logo image, it can be full, absolute or relative.
-logo_url: 
+logo_url: "https://i.postimg.cc/W1wfBdwk/My-Wiki-Logo.png"
 # (string) The UA-XXXXX-Y code from google analytic to enable GA on your wiki
 google_analytics: 
 # (string) folder where wiki pages are stored, it's needed for tool buttons
@@ -79,13 +79,13 @@ defaults:
     scope:
       path: "" # an empty string here means all files in the project
     values:
-      layout: "git-wiki-default"
+      layout: "git-wiki-bs-united"
  -
     scope:
       path: ""
       type: "pages"
     values:
-      layout: "git-wiki-default"
+      layout: "git-wiki-bs-united"
  -
     scope:
       path: ""
