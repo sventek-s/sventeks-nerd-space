@@ -1,4 +1,4 @@
-# Reverse Engineering a.k.a RE
+# Reverse Engineering
 
 ## Blogs
   
