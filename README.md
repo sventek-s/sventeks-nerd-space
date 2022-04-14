@@ -6,4 +6,4 @@ The hive, a place full of wonders that can change your life.
 
 ## Honey
 
-- [Blogs / Sites](./wiki/blogs.md)
+- [Reversing](./wiki/reversing.md)
