@@ -14,6 +14,8 @@
 - [pwning.systems](https://pwning.systems/) *LowLevel*
 - [Xilokar's Blog](https://blog.xilokar.info/) *LowLevel*
 - [James Stevenson](https://www.jamesstevenson.me/) *android*
+- [Diary of a reverse-engineer](https://doar-e.github.io/)
+- [Faraz Faith](https://faraz.faith/) *RE*, *LowLevel* 
 
 ## RE Articles
   
