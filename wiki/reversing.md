@@ -24,8 +24,9 @@
 
 - [RME-DISCO Research Group Publications](https://reversea.me/index.php/research/publications/)
   
-## Learning Resources
-      
+## Learning Resources/Blogs
+
+- [Software Reverse Engineering: Ripping Apart Bomb Binary](https://compilepeace.medium.com/software-reverse-engineering-ripping-apart-bomb-binary-25cf63dc39d5) *#Series*
 - [Reversing Blog](https://reversing.blog/) contains a lot of resources on reversing that will assist in learning.
 - [The Legend Of Random](https://legend.octopuslabs.io/sample-page.html) *#Tutorials*
 - [W3 Challs](https://w3challs.com/challenges/list/reversing) *#Reversing*
