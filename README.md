@@ -8,3 +8,4 @@ The hive, a place full of wonders that can change your life.
 
 - [Reversing and Binary Exploitation](./wiki/reversing.md)
 - [Hardware](./wiki/hardware.md)
+- [Open Source Software](./wiki/OSS.md)
