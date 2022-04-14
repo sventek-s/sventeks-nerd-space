@@ -30,3 +30,5 @@
 - [The Legend Of Random](https://legend.octopuslabs.io/sample-page.html) *#Tutorials*
 - [W3 Challs](https://w3challs.com/challenges/list/reversing) *#Reversing*
 - [OpenSecurityTraining2](https://p.ost2.fyi/)
+- [Linux Privilege Escalation](https://tbhaxor.com/linux-privilege-escalation/)
+- [AppArmor Basics for Sysadmins](https://tbhaxor.com/apparmor-basics-for-sysadmins/)
