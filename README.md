@@ -7,3 +7,4 @@ The hive, a place full of wonders that can change your life.
 ## Topics
 
 - [Reversing](./wiki/reversing.md)
+- [Hardware](./wiki/hardware.md)
