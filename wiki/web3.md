@@ -5,3 +5,7 @@
 ## Publications
 
 - [Protocol Labs Research Publications](https://research.protocol.ai/publications/)
+
+## Companies
+
+- [Protocol Labs Research Groups](https://research.protocol.ai/groups/)
