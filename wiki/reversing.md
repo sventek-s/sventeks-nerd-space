@@ -18,8 +18,7 @@
   
 ## Learning Resources
       
-- Below link contains a lot of resources on reversing that will assist in learning.
-  - [Reversing Blog](https://reversing.blog/)
+- [Reversing Blog](https://reversing.blog/) contains a lot of resources on reversing that will assist in learning.
 - [The Legend Of Random](https://legend.octopuslabs.io/sample-page.html) *#Tutorials*
 - [W3 Challs](https://w3challs.com/challenges/list/reversing) *#Reversing*
 - [OpenSecurityTraining2](https://p.ost2.fyi/)
