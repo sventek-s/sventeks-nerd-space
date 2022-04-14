@@ -5,7 +5,11 @@
 - [Pedro Javier's Blog](https://pedrojavier.com/) *#retro* *#hardware*
 
 
-# Router/IoT CTF
+## Router/IoT CTF
 
 - [Hardware Router CTF](https://www.pentestpartners.com/security-blog/hardware-router-ctf/)
 - [Hardpwn - Hardware Hacking Contest '18](https://hardwear.io/the-hague-2018/ctf.php)
+
+## Router Vulns/CVEs
+
+- [Wavlink WL-WN531P3 router unauthenticated Command Injection](https://stigward.medium.com/wavlink-command-injection-cve-2022-23900-51988f6f15df)
