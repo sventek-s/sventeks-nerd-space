@@ -12,6 +12,7 @@
 - [Rayanfam Blog](https://rayanfam.com/) *LowLevel*
 - [Julien Voisin](https://dustri.org/) a.k.a dustri. *LowLevel*
 - [pwning.systems](https://pwning.systems/) *LowLevel*
+- [Xilokar's Blog](https://blog.xilokar.info/) *LowLevel*
 
 ## RE Articles
   
