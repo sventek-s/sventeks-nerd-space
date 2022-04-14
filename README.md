@@ -9,6 +9,7 @@
 - [Reversing and Binary Exploitation](./wiki/reversing.md)
 - [Hardware](./wiki/hardware.md)
 - [Open Source Software](./wiki/OSS.md)
+- [Web3](./wiki/web3.md)
 
 ## Quicky
 
