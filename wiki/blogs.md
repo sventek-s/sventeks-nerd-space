@@ -1,4 +1,4 @@
-# TOC
+# Blogs
 
 1. [Reversing](#re)
 2. [CTF Sites](#ctf)
