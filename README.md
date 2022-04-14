@@ -4,6 +4,6 @@
 
 The hive, a place full of wonders that can change your life.
 
-## Honey 🍯
+## Honey
 
 - [Blogs / Sites](./wiki/blogs.md)
