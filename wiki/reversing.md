@@ -17,6 +17,10 @@
   
 - [A day in the life of an NCSC vulnerability researcher](https://www.ncsc.gov.uk/blog-post/day-life-ncsc-vulnerability-researcher)
 - [Vulnerabilities 101: How to Launch or Improve Your Vulnerability Research Game](https://av.tib.eu/media/36258)
+
+## Publications
+
+- [RME-DISCO Research Group Publications](https://reversea.me/index.php/research/publications/)
   
 ## Learning Resources
       
