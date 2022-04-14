@@ -15,7 +15,7 @@
 - [A day in the life of an NCSC vulnerability researcher](https://www.ncsc.gov.uk/blog-post/day-life-ncsc-vulnerability-researcher)
 - [Vulnerabilities 101: How to Launch or Improve Your Vulnerability Research Game](https://av.tib.eu/media/36258)
   
-## Learning Resources</summary>
+## Learning Resources
       
 - Below link contains a lot of resources on reversing that will assist in learning.
   - [Reversing Blog](https://reversing.blog/)
