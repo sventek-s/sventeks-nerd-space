@@ -13,6 +13,7 @@
 - [Julien Voisin](https://dustri.org/) a.k.a dustri. *LowLevel*
 - [pwning.systems](https://pwning.systems/) *LowLevel*
 - [Xilokar's Blog](https://blog.xilokar.info/) *LowLevel*
+- [James Stevenson](https://www.jamesstevenson.me/) *android*
 
 ## RE Articles
   
