@@ -15,7 +15,8 @@
 - [Xilokar's Blog](https://blog.xilokar.info/) *LowLevel*
 - [James Stevenson](https://www.jamesstevenson.me/) *android*
 - [Diary of a reverse-engineer](https://doar-e.github.io/)
-- [Faraz Faith](https://faraz.faith/) *RE*, *LowLevel* 
+- [Faraz Faith](https://faraz.faith/) *RE*, *LowLevel*
+- [Grapl Blog](https://www.graplsecurity.com/blog),`read blogs by Valentina Palmiotti a.k.a @chompie1337` (Grapl is a next generation SEIM.)
 
 ## RE Articles
   
