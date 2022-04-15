@@ -5,6 +5,7 @@
 ## Blogs
 
 - [Praeclarum](https://praeclarum.org/) *#software-dev*
+- [Daily Dev Tips](https://h.daily-dev-tips.com/) *#software-dev* *#tips*
 
 ## Articles
 
