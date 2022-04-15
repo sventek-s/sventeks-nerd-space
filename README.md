@@ -11,6 +11,7 @@ The hive, a place full of wonders that can change your life.
 - [Open Source Software](./wiki/OSS.md)
 - [Web3](./wiki/web3.md)
 - [Cloud Stuff](./wiki/cloud.md)
+- [Coding Stuff](./wiki/code.md)
 
 ## Quicky
 
