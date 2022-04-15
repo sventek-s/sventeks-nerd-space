@@ -27,3 +27,4 @@ The hive, a place full of wonders that can change your life.
 - [So, you want to work in security?](https://www.freecodecamp.org/news/so-you-want-to-work-in-security-bc6c10157d23) by Parisa Tabriz
 - [Ten Years of Logging My Life](https://chaidarun.com/ten-years-of-logging-my-life) by Art Chaidarun
 - [Practical Guide to Solving Hard Problems](https://praeclarum.org/2022/02/19/hard-problems.html) by Frank.
+- [Never stop learning](https://h.daily-dev-tips.com/never-stop-learning) by Chris Bongers.
