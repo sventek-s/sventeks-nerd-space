@@ -12,3 +12,7 @@
 - [Ret2 Systems](https://blog.ret2.io/)
 - [Detectify Blog](https://blog.detectify.com/)
 - [Sektor7 Research Blog](https://blog.sektor7.net/#!index.md)
+
+## Researcher's Blogs
+
+- [Husky's Notes](https://notes.huskyhacks.dev/) a.k.a Matt
