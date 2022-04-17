@@ -15,3 +15,12 @@
 
 - [Eli Wimmer's Blog](https://eliwimmer.com/) built with *Super.so* and his NST chrome extension.
 - [Michael Dean's Blog](https://michaeldean.site/), a writter who his blog is epic and has a public change log of his consciousness.
+
+## Online Free Photo Editors
+
+- [Maskable App](https://maskable.app/editor)
+
+## Web Color Stuff
+
+- [W3 Schools HTML Color Picker](https://www.w3schools.com/colors/colors_picker.asp)
+- [Image Color Picker](https://imagecolorpicker.com/en)
