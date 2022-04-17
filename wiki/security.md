@@ -10,4 +10,5 @@
 - [Zero Day Initiative](https://www.zerodayinitiative.com/blog)
 - [Pangu Lab](https://www.pangulab.cn/en/)
 - [Ret2 Systems](https://blog.ret2.io/)
-- [Detectify Blog](https://blog.detectify.com/) 
+- [Detectify Blog](https://blog.detectify.com/)
+- [Sektor7 Research Blog](https://blog.sektor7.net/#!index.md)
