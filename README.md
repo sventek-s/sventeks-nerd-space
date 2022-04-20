@@ -8,7 +8,8 @@ The hive, a place full of wonders that can change your life.
 
 - [Security Blogs](./wiki/security.md)
 - [Reversing and Binary Exploitation](./wiki/reversing.md)
-- [Hardware](./wiki/hardware.md)
+- [Hardware & IoT](./wiki/hardware.md)
+- [Network Research](./wiki/nr.md)
 - [Open Source Software](./wiki/OSS.md)
 - [Web3](./wiki/web3.md)
 - [Cloud Stuff](./wiki/cloud.md)
