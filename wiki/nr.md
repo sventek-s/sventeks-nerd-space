@@ -1,5 +1,13 @@
 # Network and Protocols Research
 
+- [Network Protocols and Vulnerabilities](https://crypto.stanford.edu/cs155old/cs155-spring11/lectures/08-tcp-dns.pdf) by Dan Boneh.
+
+## Tools
+
+- [IPinfo ASNs by Country Report](http://ipinfo.io/countries)
+- [Nmap Network Scanning TOC](https://nmap.org/book/toc.html)
+- 
+
 ## Network Lab Setup
 
 - [Open-Source Routing and Network Simulation](https://www.brianlinkletter.com/open-source-network-simulators/)
