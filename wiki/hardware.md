@@ -17,5 +17,5 @@
 
 - [Wavlink WL-WN531P3 router unauthenticated Command Injection](https://stigward.medium.com/wavlink-command-injection-cve-2022-23900-51988f6f15df)
 - [NETGEAR DGND3700v2 PreAuth Root Access](https://ssd-disclosure.com/ssd-advisory-netgear-dgnd3700v2-preauth-root-access/)
-- [CVE-2017-3881 | Cisco Catalyst RCE POC](https://artkond.com/2017/04/10/cisco-catalyst-remote-code-execution/)
+- [CVE-2017-3881 \| Cisco Catalyst RCE POC](https://artkond.com/2017/04/10/cisco-catalyst-remote-code-execution/)
   - [Exploit code](https://github.com/artkond/cisco-rce/)
