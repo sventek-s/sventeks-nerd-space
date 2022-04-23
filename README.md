@@ -30,3 +30,4 @@ The hive, a place full of wonders that can change your life.
 - [Ten Years of Logging My Life](https://chaidarun.com/ten-years-of-logging-my-life) by Art Chaidarun
 - [Practical Guide to Solving Hard Problems](https://praeclarum.org/2022/02/19/hard-problems.html) by Frank.
 - [Never stop learning](https://h.daily-dev-tips.com/never-stop-learning) by Chris Bongers.
+- [Reduce External Monitor Brightness on Ubuntu 20.04, 21.10](https://techstoriesindia.blogspot.com/2020/05/reduce-external-monitor-brightness-ubuntu-linux.html#:~:text=However%2C%20In%20Ubuntu%2C%20you%20can,be%20using%20to%20achieve%20this.&text=To%20change%20the%20brightness%20enter,brightness%200.5%20and%20press%20Enter.) 💎💎💎
