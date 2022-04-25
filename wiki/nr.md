@@ -22,6 +22,7 @@
 
 ## SNMP Protocol
 
+- [SNMP exercises](https://nsrc.org/activities/agendas/en/nmm-3-days/netmgmt/en/snmp/exercises-snmp.html)
 - [SNMP Commands](https://docs.oracle.com/cd/E19469-01/820-6413-13/SNMP_commands_reference_appendix.html#50446362_54136)
 - [SNMP Exploitation with Metasploit and SNMPSet](https://blog.pentesteracademy.com/snmp-exploitation-with-metasploit-and-snmpset-920de3fc2c50)
 - [Pentesting SNMP](https://book.hacktricks.xyz/pentesting/pentesting-snmp)
@@ -29,3 +30,13 @@
 - [SNMP Sweeping](https://www.offensive-security.com/metasploit-unleashed/snmp-scan/)
 - [SNMP-RCE](https://book.hacktricks.xyz/pentesting/pentesting-snmp/snmp-rce)
 - [Nmap snmp-brute NSE Script](https://www.infosecmatter.com/nmap-nse-library/?nse=snmp-brute)
+
+### Cisco SNMP Password Recovery/Cracking
+
+- [How do I reset the enable secret password using SNMP](https://www.tek-tips.com/faqs.cfm?fid=705)by fynx
+- [Using SNMP to Modify a Router’s Running Configuration](https://www.oreilly.com/library/view/cisco-ios-cookbook/0596527225/ch17s09.html)
+- [Cisco IOS Enable Secret Type 5 Password Cracker](https://www.ifm.net.nz/cookbooks/cisco-ios-enable-secret-password-cracker.html)
+- [Cisco Password Cracker Type 7](https://www.ifm.net.nz/cookbooks/passwordcracker.html)
+- [cisco_pwdecrypt](https://github.com/axcheron/cisco_pwdecrypt)
+- [Cisco Password Cracking and Decrypting Guide](https://www.infosecmatter.com/cisco-password-cracking-and-decrypting-guide/)
+- [Installing and Configuring TFTP Server on Ubuntu](https://linuxhint.com/install_tftp_server_ubuntu/) comes in handy when trying to retrieve config file to a TFTP server.
