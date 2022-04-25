@@ -33,10 +33,9 @@
 
 ### Cisco SNMP Password Recovery/Cracking
 
-- [How do I reset the enable secret password using SNMP](https://www.tek-tips.com/faqs.cfm?fid=705)by fynx
-- [Using SNMP to Modify a Router’s Running Configuration](https://www.oreilly.com/library/view/cisco-ios-cookbook/0596527225/ch17s09.html)
+- [Cisco IOS SNMP Configuration Grabber (TFTP) - Metasploit](https://www.infosecmatter.com/metasploit-module-library/?mm=auxiliary/scanner/snmp/cisco_config_tftp)
+- [Cisco IOS SNMP File Upload (TFTP) - Metasploit](https://www.infosecmatter.com/metasploit-module-library/?mm=auxiliary/scanner/snmp/cisco_upload_file)
 - [Cisco IOS Enable Secret Type 5 Password Cracker](https://www.ifm.net.nz/cookbooks/cisco-ios-enable-secret-password-cracker.html)
 - [Cisco Password Cracker Type 7](https://www.ifm.net.nz/cookbooks/passwordcracker.html)
 - [cisco_pwdecrypt](https://github.com/axcheron/cisco_pwdecrypt)
 - [Cisco Password Cracking and Decrypting Guide](https://www.infosecmatter.com/cisco-password-cracking-and-decrypting-guide/)
-- [Installing and Configuring TFTP Server on Ubuntu](https://linuxhint.com/install_tftp_server_ubuntu/) comes in handy when trying to retrieve config file to a TFTP server.
