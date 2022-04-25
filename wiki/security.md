@@ -1,7 +1,7 @@
 # Everything Security
 > Anything on security.
 
-## Blogs
+## Company Blogs
 
 - [GitHub Security Lab Blog](https://github.blog/tag/github-security-lab/) *new*
 - [GitHub Security Lab Blog](https://securitylab.github.com/) *old*
@@ -13,6 +13,7 @@
 - [Detectify Blog](https://blog.detectify.com/)
 - [Sektor7 Research Blog](https://blog.sektor7.net/#!index.md)
 
-## Researcher's Blogs
+## Security Blogs
 
 - [Husky's Notes](https://notes.huskyhacks.dev/) a.k.a Matt
+- [Alexandre CHERON's](https://axcheron.github.io/) Blog. Author of `cisco_pwdecrypt` tool.
