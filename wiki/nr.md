@@ -7,7 +7,7 @@
 - [IPinfo ASNs by Country Report](http://ipinfo.io/countries)
 - [Nmap Network Scanning TOC](https://nmap.org/book/toc.html)
 - [onesixtyone](https://github.com/trailofbits/onesixtyone) Fast SNMP Scanner.
-- [Brim](https://www.brimdata.io/) PCAP file parser `free & open-source`.
+- [Brim](https://www.brimdata.io/) PCAP file parser.
 - [Arkime](https://arkime.com/) packet capture.
 
 ### Nmap sub-tools
