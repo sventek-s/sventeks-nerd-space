@@ -1,4 +1,4 @@
-# Notion & Personal Stuff
+# Personal Stuff
 
 > Well as I said personal to me but may be of help to you.
 
