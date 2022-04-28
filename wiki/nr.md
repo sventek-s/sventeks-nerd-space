@@ -41,3 +41,8 @@
 - [Cisco Password Cracker Type 7](https://www.ifm.net.nz/cookbooks/passwordcracker.html)
 - [cisco_pwdecrypt](https://github.com/axcheron/cisco_pwdecrypt)
 - [Cisco Password Cracking and Decrypting Guide](https://www.infosecmatter.com/cisco-password-cracking-and-decrypting-guide/)
+
+## Articles
+
+- [How to Catch Data Exfiltration With a Single Tshark Command](https://www.activecountermeasures.com/how-to-catch-data-exfiltration-with-a-single-tshark-command-video-blog/)
+- 
