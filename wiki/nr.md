@@ -45,4 +45,3 @@
 ## Articles
 
 - [How to Catch Data Exfiltration With a Single Tshark Command](https://www.activecountermeasures.com/how-to-catch-data-exfiltration-with-a-single-tshark-command-video-blog/)
-- 
