@@ -17,3 +17,4 @@
 
 - [Husky's Notes](https://notes.huskyhacks.dev/) a.k.a Matt
 - [Alexandre CHERON's](https://axcheron.github.io/) Blog. Author of `cisco_pwdecrypt` tool.
+- [ropnop](https://blog.ropnop.com/)'s Blog.
