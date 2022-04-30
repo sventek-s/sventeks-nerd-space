@@ -15,7 +15,7 @@ The hive, a place full of wonders that can change your life.
 - [Cloud Stuff](./wiki/cloud.md)
 - [Software Dev](./wiki/code.md)
 - [Notion & Personal Stuff](./wiki/nps.md)
-- [Cheat Sheets](./wiki/cs.md)
+- [Cheat Sheets](./wiki/cheatSheets/cs.md)
 
 ## Quicky
 
