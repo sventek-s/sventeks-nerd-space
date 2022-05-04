@@ -62,3 +62,9 @@ swapon -s
 ```
 
 Note: This is the option I am currently using to see if it would work differently from the first one.
+
+### References
+
+- [How To Check Swap Usage Size and Utilization in Linux](https://www.cyberciti.biz/faq/linux-check-swap-usage-command/)
+- [How to Extend Swap Space using Swap file in Linux](https://www.linuxtechi.com/extend-swap-space-using-swap-file-in-linux/)
+- [VMware Player warns me of no swap whenever I launch a VM](https://askubuntu.com/questions/449643/vmware-player-warns-me-of-no-swap-whenever-i-launch-a-vm)
