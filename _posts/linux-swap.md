@@ -7,8 +7,9 @@ published: true
 Linux swap is a space on disk that is used when the amount of physical RAM memory is full.
 
 I had an issue with my vmware where each time I would start a virtual enviroment of 8GB ram while my host system had 32G ram it would give me the below error.
-
-![image](https://user-images.githubusercontent.com/70489395/166643488-af382bc4-810f-4e17-a833-cca3f4c17427.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/70489395/166643488-af382bc4-810f-4e17-a833-cca3f4c17427.png" alt="image">
+</p>
 
 After some research I came to learn that vmware has a setting where the virtual machines can swap virtual memory with host ram, but also you can configure to fit all virtual machine memory into reserved host RAM and that would fix your error too.
 
@@ -21,6 +22,10 @@ But I just want to note on how you can have a swap file which you can turn on an
 Start vmware from terminal with sudo, then head to the Edit tab -> Preference -> Memory.
 
 Under the Additional Memory setting change it from `Allow some virtual machine memory to be swapped` to `Fit all virtual machine memory into reserved host RAM`
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/70489395/166674716-e73570b9-9920-43cf-a9ca-9536fcf918b1.png" alt="image">
+</p>
 
 Note that you should use this option if you have enough physical memory on your host machine. Also I tried this option used it for a while and it didn't work well for me as I was expecting but you should give it a try.
 
