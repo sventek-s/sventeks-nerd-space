@@ -1,4 +1,4 @@
-# sventek nerd space
+# sventek's nerd space
 
 > What does not benefit the hive is no benefit to the bee ~ Marcus Aurelius.
 
