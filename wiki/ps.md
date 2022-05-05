@@ -1,4 +1,4 @@
-# Personal Stuff
+# Random Stuff
 
 > Well as I said personal to me but may be of help to you.
 
@@ -24,3 +24,7 @@
 
 - [W3 Schools HTML Color Picker](https://www.w3schools.com/colors/colors_picker.asp)
 - [Image Color Picker](https://imagecolorpicker.com/en)
+
+## Others
+
+- [tmux-attach session; alias with tab completion](https://www.nathankowald.com/blog/2014/03/tmux-attach-session-alias/)
