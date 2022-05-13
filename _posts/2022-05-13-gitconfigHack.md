@@ -10,7 +10,7 @@ I have two github users for different things, one as a data hoarder and the othe
 
 ## The main Hack
 
-Here comes the hack I found on [stackoverflow](https://stackoverflow.com/a/43654115)
+Here comes the hack I found on [stackoverflow](https://stackoverflow.com/a/44036640)
 
 - main gitconfig at home directory.
 
@@ -23,17 +23,21 @@ Here comes the hack I found on [stackoverflow](https://stackoverflow.com/a/43654
 
 [core]
   editor = /usr/local/bin/vim
-```
 
-- the sventek's gitconfig at `~/Documents/github/sventek-s` directory.
+# --- .iAmG-r00t.gitconfig --- #
+# default gitconfig
+[user]
+  name = iAmG-r00t
+  email = [REDACTED]
 
-```md
+# --- .sventek.gitconfig --- #
+# sventek's github config
 [user]
   name = sventek-s
   email = [REDACTED]
-[core]
-    editor = /usr/local/bin/vim
 ```
+
+BOOM, no more mixed users in commits.
 
 ## Other hacks
 
