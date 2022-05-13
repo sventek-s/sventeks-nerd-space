@@ -64,5 +64,6 @@ Host sventek-github.com
 Then once after cloning or creating a repo for sventek, you need to change the remote url origin.
 
 Example;
-    \t- Original from github will look like this; `git@github.com:sventek-s/sventeks-nerd-space.git`
-    \t- Edited; `git@sventek-github.com:sventek-s/sventek-s-wiki.git`
+
+- Original from github will look like this; `git@github.com:sventek-s/sventeks-nerd-space.git`
+- Edited; `git@sventek-github.com:sventek-s/sventek-s-wiki.git`
