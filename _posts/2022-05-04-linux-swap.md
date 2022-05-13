@@ -2,7 +2,7 @@
 published: true
 ---
 
-## VMware Workstation & Linux Swap
+# VMware Workstation & Linux Swap
 
 Linux swap is a space on disk that is used when the amount of physical RAM memory is full.
 
@@ -15,7 +15,7 @@ After some research I came to learn that vmware has a setting where the virtual 
 
 But I just want to note on how you can have a swap file which you can turn on and off. The benefit of this setup from my point of view is that it gives you a sense of control.
 
-### Fix 1
+## Fix 1
 
 > The easy way out.
 
@@ -29,7 +29,7 @@ Under the Additional Memory setting change it from `Allow some virtual machine m
 
 Note that you should use this option if you have enough physical memory on your host machine. Also I tried this option used it for a while and it didn't work well for me as I was expecting but you should give it a try.
 
-### Fix 2
+## Fix 2
 
 > Abit of work, here and there 
 
@@ -63,7 +63,7 @@ swapon -s
 
 Note: This is the option I am currently using to see if it would work differently from the first one.
 
-### References
+## References
 
 - [How To Check Swap Usage Size and Utilization in Linux](https://www.cyberciti.biz/faq/linux-check-swap-usage-command/)
 - [How to Extend Swap Space using Swap file in Linux](https://www.linuxtechi.com/extend-swap-space-using-swap-file-in-linux/)
