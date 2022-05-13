@@ -1,0 +1,76 @@
+# VIM: netrw Tips
+
+## Background
+
+So I have been using vim for like an year now, and I have been enjoying it. Between now and last year when I was cleaning up my vim config file; [vimrc](https://github.com/iAmG-r00t/dotfiles/blob/master/desktop/dotfiles/vim/vimrc), I found out there were too many pluggins I had installed and I don't use (bloat) and one of them was [NERDTree](https://github.com/preservim/nerdtree).
+Don't get me wrong, the plugin does an amaizing job but I only used it mostly as a file system explorer while in VIM.
+
+After some googling I found a couple of [posts](#posts) on netrw and after using them well I was happy and I defaulted to using it.
+
+## Tips
+
+<a id="posts"></a>
+### posts on netrw
+
+- [Using Netrw, vim's builtin file explorer](https://vonheikemen.github.io/devlog/tools/using-netrw-vim-builtin-file-explorer/) by [@VonHeikemen_](https://twitter.com/VonHeikemen_)
+- [Vim: you don't need NERDtree or (maybe) netrw](https://shapeshed.com/vim-netrw/) by George Ornbo.
+
+### netrw as NERDtree
+From Georg's post, he guides you how to configure netrw to acts as NerdTree, below is my config:
+
+```vim
+" Netrw Configs
+"
+" netrw configure like nerdtree
+let g:netrw_banner = 0            " hide banner
+let g:netrw_liststyle = 3         " use tree style listing
+let g:netrw_browse_split = 4      " open file to the right
+let g:netrw_altv = 1              " ... of the project drawer
+let g:netrw_winsize = 20          " window size when it creates a split
+
+" start vim with project drawer opened
+augroup ProjectDrawer
+  autocmd!
+  autocmd VimEnter * :Vexplore
+augroup END
+```
+
+### Other quirks and mappings
+
+When you enter vim, it executes the ProjectDrawer function and shows you the current directory and its contents.
+The issue was each time, I was editing a file and had so many tab buffers and splits. I was required to go to my ProjectDrawer buffer `C-w` `h/<- or l/->` to change to that buffer then exit. Which I tend to find as too much work.
+So after some googling once again, I found a [function](https://stackoverflow.com/a/58110818/12076640) that finds buffers with filetype being `netrw` then silently deletes it from stackoverflow.
+
+```vim
+function! s:close_explorer_buffers()
+    for i in range(1, bufnr('$'))
+        if getbufvar(i, '&filetype') == "netrw"
+            silent exe 'bdelete! ' . i
+        endif
+    endfor
+endfunction
+```
+That being the case I mapped this function as below to allow me to quickly close/delete the buffer without the hassle of too much movement and typing in vim.
+
+```vim
+" Mapping for close_explorer_buffers function that closes projectDrawer
+nnoremap <Leader>qda :call <sid>close_explorer_buffers()<cr>
+
+" Open Netrw in the cwd, more like open ProjectDrawer
+nnoremap <Leader>da :Lexplore<CR>
+```
+
+### Other tips
+
+- `p`; opens a preview window.
+- `<C-w>z`; `Ctrl + w` and then `z`. Closes the priview window. 
+- `%`; vim will ask you for a file name, create that file in the current working directory and open a buffer.
+- `d`; creates a directory
+- `D`; deletes a file or an empty directory.
+- `gh`; toggles the hidden files.
+- `R`; renames a file.
+- `mt`; assign the 'target directory' used by the move and copy commands.
+- `mf`; marks a file or directory.
+- `mc`; copy the marked files to the target directory.
+- `mm`; move the marked files to the target directory.
+- `mx`; runs an external command on the marked files.
