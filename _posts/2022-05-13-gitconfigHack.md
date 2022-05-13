@@ -15,15 +15,14 @@ Here comes the hack I found on [stackoverflow](https://stackoverflow.com/a/43654
 - main gitconfig at home directory.
 
 ```md
-# This is Git's per-user configuration file.
-[user]
-  name = iAmG-r00t
-  email = [REDACTED]
+[include]
+  path = ~/.iAmG-r00t.gitconfig
 
-[includeIf "gitdir:~/Documents/github/sventek-s"]
-  path = ~/Documents/github/sventek-s/.gitconfig
+[includeIf "gitdir:~/Documents/github/sventek-s/"]
+  path = ~/.sventek.gitconfig
+
 [core]
-    editor = /usr/local/bin/vim
+  editor = /usr/local/bin/vim
 ```
 
 - the sventek's gitconfig at `~/Documents/github/sventek-s` directory.
