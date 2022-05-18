@@ -4,7 +4,7 @@
 
 The hive, a place full of wonders that can change your life.
 
-## Topics
+# Topics
 
 - [Security Blogs](./wiki/security.md)
 - [Reversing and Binary Exploitation](./wiki/reversing.md)
@@ -17,13 +17,13 @@ The hive, a place full of wonders that can change your life.
 - [Random Stuff](./wiki/ps.md)
 - [Cheat Sheets](./wiki/cs.md)
 
-## Quicky
+# Quicky
 
 > Quick links.
 
 - [Steam Unlocked](https://steamunlocked.net/) allows you to download your favorite games pre-installed on steam without the cost.
 
-## Interesting Articles
+# Interesting Articles
 
 - [A locked-in man has been able to communicate in sentences by thought alone](https://www.technologyreview.com/2022/03/22/1047664/locked-in-patient-bci-communicate-in-sentences/)
 - [So you want to work in security?](https://ifsec.blogspot.com/2018/02/so-you-want-to-work-in-security-and-for.html?m=1) by Ivan Fratric
