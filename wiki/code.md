@@ -18,3 +18,8 @@
 > Good when doing android app security.
 
 - [CodePath Android Cliffnotes](https://guides.codepath.com/android)
+
+
+## Random
+
+- Moved my [blog](https://blog.th3-gr00t.tk) from blogger to github created with jekyll. It was a theme I bought and when I was editing the main source code I came by an amaizing [resource](https://carpentries-incubator.github.io/jekyll-pages-novice/index.html) that allowed me to learn jekyll basics.
