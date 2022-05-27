@@ -16,6 +16,7 @@ The hive, a place full of wonders that can change your life.
 - [Software Dev](./wiki/code.md)
 - [Random Stuff](./wiki/ps.md)
 - [Cheat Sheets](./wiki/cs.md)
+- [API Security](./wiki/api.md)
 
 # Quicky
 
