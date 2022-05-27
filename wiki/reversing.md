@@ -20,6 +20,10 @@
 - [Low-level adventures](https://0x434b.dev/) Epic low level posts.
 - [cocomelonc](https://cocomelonc.github.io/) Epic posts on malware development in C++.
 - [Maxpl0it](https://maxpl0it.com/) Exploits and Research.
+- [Fail0verflow](https://fail0verflow.com/blog/) Blog.
+- [Diary of a reverse-engineer](https://doar-e.github.io/index.html)
+- [Banana Mafia Dev](https://bananamafia.dev/post/) (fell in love with his post from day one. Uses radare2.)
+- [Megabeets](https://www.megabeets.net/) has always been my mentor.
 
 ## RE Articles/Videos
   
