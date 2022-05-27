@@ -41,3 +41,4 @@
 - [How to start RE/malware analysis](https://hshrzd.wordpress.com/how-to-start/) by hasherezade's.
 - [Cracking Lessons](https://crackinglessons.com/)
 - [OALabs Research](https://research.openanalysis.net/) also check out there twicth and youtube channel.
+- [Awesome ELF Resources](https://github.com/tmpout/awesome-elf)
