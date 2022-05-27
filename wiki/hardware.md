@@ -19,3 +19,8 @@
 - [NETGEAR DGND3700v2 PreAuth Root Access](https://ssd-disclosure.com/ssd-advisory-netgear-dgnd3700v2-preauth-root-access/)
 - [CVE-2017-3881 \| Cisco Catalyst RCE POC](https://artkond.com/2017/04/10/cisco-catalyst-remote-code-execution/)
   - [Exploit code](https://github.com/artkond/cisco-rce/)
+
+## IoT Companies in Kenya
+
+- [numeral IOT](https://www.numeraliot.com/)
+- [GearBox Academy](https://gearbox.ke/academy/index)
