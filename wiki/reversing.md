@@ -19,6 +19,7 @@
 - [Grapl Blog](https://www.graplsecurity.com/blog),`read blogs by Valentina Palmiotti a.k.a @chompie1337` (Grapl is a next generation SEIM.)
 - [Low-level adventures](https://0x434b.dev/) Epic low level posts.
 - [cocomelonc](https://cocomelonc.github.io/) Epic posts on malware development in C++.
+- [Maxpl0it](https://maxpl0it.com/) Exploits and Research.
 
 ## RE Articles/Videos
   
