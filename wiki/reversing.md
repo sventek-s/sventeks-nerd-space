@@ -18,11 +18,15 @@
 - [Faraz Faith](https://faraz.faith/) *RE*, *LowLevel*
 - [Grapl Blog](https://www.graplsecurity.com/blog),`read blogs by Valentina Palmiotti a.k.a @chompie1337` (Grapl is a next generation SEIM.)
 
-## RE Articles
+## RE Articles/Videos
   
 - [A day in the life of an NCSC vulnerability researcher](https://www.ncsc.gov.uk/blog-post/day-life-ncsc-vulnerability-researcher)
 - [Vulnerabilities 101: How to Launch or Improve Your Vulnerability Research Game](https://av.tib.eu/media/36258)
 - [From 0x90 to 0x4c454554, a journey into exploitation](http://www.myne-us.com/2010/08/from-0x90-to-0x4c454554-journey-into.html)
+- [OffensiveCon22 - Mark Dowd- Keynote -How Do You Actually Find Bugs?](https://www.youtube.com/watch?v=7Ysy6iA2sqA)
+- [Demystifying Security Research - Part 1](https://alexplaskett.github.io/demystifying-security-research-part1/) by Alex Plaskett.
+- [From CTFs to Real World](https://dayzerosec.com/tags/ctf-to-real-world/) by DAY[0]
+- [Getting Started with Exploit Development](https://dayzerosec.com/blog/2021/02/02/getting-started.html)
 
 ## Publications
 
