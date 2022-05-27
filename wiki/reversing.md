@@ -38,3 +38,5 @@
 - [Linux Privilege Escalation](https://tbhaxor.com/linux-privilege-escalation/)
 - [AppArmor Basics for Sysadmins](https://tbhaxor.com/apparmor-basics-for-sysadmins/)
 - [Vulnserver](http://thegreycorner.com/2010/12/15/introducing-vulnserver.html) *#windows-ctf*
+- [How to start RE/malware analysis](https://hshrzd.wordpress.com/how-to-start/) by hasherezade's.
+- [Cracking Lessons](https://crackinglessons.com/)
