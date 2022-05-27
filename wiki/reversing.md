@@ -22,6 +22,7 @@
   
 - [A day in the life of an NCSC vulnerability researcher](https://www.ncsc.gov.uk/blog-post/day-life-ncsc-vulnerability-researcher)
 - [Vulnerabilities 101: How to Launch or Improve Your Vulnerability Research Game](https://av.tib.eu/media/36258)
+- [From 0x90 to 0x4c454554, a journey into exploitation](http://www.myne-us.com/2010/08/from-0x90-to-0x4c454554-journey-into.html)
 
 ## Publications
 
