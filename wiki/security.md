@@ -24,3 +24,9 @@
 ## Learning
 
 - [Hoppers Roppers](https://www.roppers.org/) The best place to take your first steps into security.
+
+## Videos
+
+- [Travis Goodspeed - A Keynote in Praise of Junk Hacking](https://www.youtube.com/watch?v=ZmZ_tvbhJ0I)
+- [Travis Goodspeed - Embedded System Vulnerabilities playlist](https://www.youtube.com/playlist?list=PLIsXzR_wZY-xyC-Pse_v8kNw2Dto9fp0_)
+- [SDR with HackRF Training Series](https://www.youtube.com/playlist?list=PLu0BPYzTjiHru1KmPThmbY-8rRm3EWvUQ)
