@@ -19,3 +19,7 @@
 - [Alexandre CHERON's](https://axcheron.github.io/) Blog. Author of `cisco_pwdecrypt` tool.
 - [ropnop](https://blog.ropnop.com/)'s Blog.
 - [Malware Tech's Blog](https://www.malwaretech.com/)
+
+## Learning
+
+- [Hoppers Roppers](https://www.roppers.org/) The best place to take your first steps into security.
