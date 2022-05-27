@@ -29,3 +29,4 @@
 
 - [tmux-attach session; alias with tab completion](https://www.nathankowald.com/blog/2014/03/tmux-attach-session-alias/)
 - [create favicon](https://www.silisoftware.com/tools/favicon.php)
+- [snipd](https://www.snipd.com/) allows you to highlight podcasts and can connect and sync with notion, readwise, obsidian, logseq and markdown.
