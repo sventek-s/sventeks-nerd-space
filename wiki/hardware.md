@@ -2,6 +2,7 @@
 
 - [USB Armory](https://github.com/usbarmory/usbarmory) by F-Secure.
 - [P1kachu](http://p1kachu.pluggi.fr/) focuses on automotive security.
+- [Can analysis](https://github.com/P1kachu/talking-with-cars#playing-with-can) repo by P1kachu.
 
 ## Blogs
 
