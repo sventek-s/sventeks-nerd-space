@@ -1,6 +1,7 @@
 # Hardware Stuff
 
 - [USB Armory](https://github.com/usbarmory/usbarmory) by F-Secure.
+- [P1kachu](http://p1kachu.pluggi.fr/) focuses on automotive security.
 
 ## Blogs
 
