@@ -17,6 +17,7 @@
 - [Diary of a reverse-engineer](https://doar-e.github.io/)
 - [Faraz Faith](https://faraz.faith/) *RE*, *LowLevel*
 - [Grapl Blog](https://www.graplsecurity.com/blog),`read blogs by Valentina Palmiotti a.k.a @chompie1337` (Grapl is a next generation SEIM.)
+- [Low-level adventures](https://0x434b.dev/) Epic low level posts.
 
 ## RE Articles/Videos
   
