@@ -64,7 +64,7 @@ else
 fi
 ```
 
-To set it up, clone the repository, enter the directory, copy all the *.sh* files to `/usr/bin/` directory and link the `battMonitor.sh` file to `autostart` directory.
+To set it up, clone the [repository](https://github.com/iAmG-r00t/whackyscripts), enter the directory, copy all the *.sh* files to `/usr/bin/` directory and link the `battMonitor.sh` file to `autostart` directory.
 
 ```sh
 git clone https://github.com/iAmG-r00t/whackyscripts.git
