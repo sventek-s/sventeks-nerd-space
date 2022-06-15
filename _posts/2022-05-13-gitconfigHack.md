@@ -23,6 +23,7 @@ Here comes the hack I found on [stackoverflow](https://stackoverflow.com/a/44036
 
 [core]
   editor = /usr/local/bin/vim
+  excludesfile = /home/null/.gitignore
 
 # --- .iAmG-r00t.gitconfig --- #
 # default gitconfig
@@ -67,3 +68,5 @@ Example;
 
 - Original from github will look like this; `git@github.com:sventek-s/sventeks-nerd-space.git`
 - Edited; `git@sventek-github.com:sventek-s/sventek-s-wiki.git`
+
+**[UPDATE]** Added a global gitignore file.
