@@ -25,6 +25,10 @@
 
 - [Hoppers Roppers](https://www.roppers.org/) The best place to take your first steps into security.
 
+## Interesting Articles
+
+- [When Pentest Tools Go Brutal: Red-Teaming Tool Being Abused by Malicious Actors](https://unit42.paloaltonetworks.com/brute-ratel-c4-tool/) by unit42.
+
 ## Videos
 
 - [Travis Goodspeed - A Keynote in Praise of Junk Hacking](https://www.youtube.com/watch?v=ZmZ_tvbhJ0I)
