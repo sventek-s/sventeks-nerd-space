@@ -1,4 +1,4 @@
-# RE and BinExp
+# Vulnerability Research
 
 ## Blogs
   
@@ -25,7 +25,7 @@
 - [Banana Mafia Dev](https://bananamafia.dev/post/) (fell in love with his post from day one. Uses radare2.)
 - [Megabeets](https://www.megabeets.net/) has always been my mentor.
 
-## RE Articles/Videos
+## Articles/Videos
   
 - [A day in the life of an NCSC vulnerability researcher](https://www.ncsc.gov.uk/blog-post/day-life-ncsc-vulnerability-researcher)
 - [Vulnerabilities 101: How to Launch or Improve Your Vulnerability Research Game](https://av.tib.eu/media/36258)
