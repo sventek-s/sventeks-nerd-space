@@ -7,7 +7,7 @@ The hive, a place full of wonders that can change your life.
 # Topics
 
 - [Security Blogs](./wiki/security.md)
-- [Reversing and Binary Exploitation](./wiki/reversing.md)
+- [Vulnerability Research](./wiki/VulnResearch.md)
 - [Hardware & IoT](./wiki/hardware.md)
 - [Network Research](./wiki/nr.md)
 - [Open Source Software](./wiki/OSS.md)
