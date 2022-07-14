@@ -34,6 +34,9 @@
 - [Demystifying Security Research - Part 1](https://alexplaskett.github.io/demystifying-security-research-part1/) by Alex Plaskett.
 - [From CTFs to Real World](https://dayzerosec.com/tags/ctf-to-real-world/) by DAY[0]
 - [Getting Started with Exploit Development](https://dayzerosec.com/blog/2021/02/02/getting-started.html)
+- Fuchsia OS;
+  - [Google Fuchsia OS Sets a New Standard for Operating System Security](https://versprite.com/blog/security-research/google-fuchsia-os-security/) by VerSprite's Security Researchers.
+  - [Playing Around With The Fuchsia Operating System](https://blog.quarkslab.com/playing-around-with-the-fuchsia-operating-system.html#attacking-fuchsia) by Quarkslab.
 
 ## Publications
 
@@ -54,3 +57,4 @@
 - [Cracking Lessons](https://crackinglessons.com/)
 - [OALabs Research](https://research.openanalysis.net/) also check out there twicth and youtube channel.
 - [Awesome ELF Resources](https://github.com/tmpout/awesome-elf)
+- [Hybervisor Tutorials](https://rayanfam.com/tags/hypervisor/) by Rayanfam.
