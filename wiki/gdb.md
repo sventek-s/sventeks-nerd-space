@@ -38,3 +38,19 @@
   # or
   $> (echo -ne "\xef\xbe\xad\xde"; cat) | nc -vv localhost 666
   ```
+
+- Breaking at main in stripped binaries
+  ```sh
+  # option 1
+  set breakpoint pending on
+  starti
+  break __libc_start_main
+  continue
+  b *$rdi
+  continue
+  
+  # option 2
+  set breakpoint pending on
+  set $base = 0x555555554000
+  b *($base+offset)
+  ```
