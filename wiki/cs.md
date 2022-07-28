@@ -4,3 +4,4 @@
 
 - [vim](./vim.md)
 - [markdown](./markdwn.md)
+- [GDB](./gdb.md)
