@@ -2,9 +2,9 @@
 
 > This are just important stuff that I have used.
 
-`$exentry` where to break or unassemble when the file doesn't have symbols
+- `$exentry` the address of the entry point.
 
-- [Finding main](https://www.youtube.com/watch?v=FCGpXLtCzLY)
+- [How to find main](https://www.youtube.com/watch?v=FCGpXLtCzLY) when the executable doesn't have symbols.
 
 - [Reload symbols](https://docs.microsoft.com/en-us/windows-hardware/drivers/debugger/-reload--reload-module-)
 
