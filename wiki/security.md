@@ -28,6 +28,7 @@
 ## Interesting Articles
 
 - [When Pentest Tools Go Brutal: Red-Teaming Tool Being Abused by Malicious Actors](https://unit42.paloaltonetworks.com/brute-ratel-c4-tool/) by unit42.
+- [So You Want To Be A Hacker](https://glitchnsec.github.io/misc/2019/08/05/so-you-want-to-be-a-Hacker.html)
 
 ## Videos
 
