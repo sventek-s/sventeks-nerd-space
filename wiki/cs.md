@@ -6,3 +6,4 @@
 - [markdown](./markdwn.md)
 - [GDB](./gdb.md)
 - [WinDbg](./winDbg.md)
+- [Reversing & Binary Exploitation](./re-binExp.md)
