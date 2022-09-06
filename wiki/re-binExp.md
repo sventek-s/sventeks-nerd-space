@@ -2,6 +2,8 @@
 
 > This is not a holy grail, just a dump of notes of techniques I have been picking up.
 
+[Telegram Group](https://t.me/+UiasAjzWBUgHZ9Rb) with more RE materials.
+
 ## Resources
 
 - [Libc database search](https://libc.blukat.me/)
