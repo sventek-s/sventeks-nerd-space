@@ -38,6 +38,8 @@ Here comes the hack I found on [stackoverflow](https://stackoverflow.com/a/44036
   email = [REDACTED]
 ```
 
+`gitdir` is case-sensitive and `gitdir/i` is case-insensitive.
+
 BOOM, no more mixed users in commits.
 
 ## Other hacks
