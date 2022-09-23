@@ -21,3 +21,16 @@
   3. press the < shift to left
   4. press . to repeat the indent
   ```
+- [Quick Movement](https://vim.fandom.com/wiki/Moving_around)
+
+  ```sh
+  ^: move to the begining of the line
+  $: move to the end of of the line
+  ```
+
+- Increament and Decrement number... [VIM Tips](https://youtu.be/sQA63cI1khU)
+
+  ```sh
+  CTRL+a: ++
+  CTRL+x: --
+  ```
