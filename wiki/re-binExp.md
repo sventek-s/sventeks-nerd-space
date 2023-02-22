@@ -7,6 +7,8 @@
 ## Resources
 
 - [Libc database search](https://libc.blukat.me/)
+- [glibc Versions](https://gist.github.com/wagenet/35adca1a032cec2999d47b6c40aa45b1) useful in heap exploitation.
+- [Versions for glibc](https://repology.org/project/glibc/versions) also useful in heap exploitation.
 
 - [Running binaries with alternative Libc](https://www.reddit.com/r/ExploitDev/comments/i4lwaw/comment/g0j3kl1/)
 - [x86 and amd64 instruction reference](https://www.felixcloutier.com/x86/)
