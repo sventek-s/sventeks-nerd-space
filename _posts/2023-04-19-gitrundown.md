@@ -16,6 +16,12 @@ Read the [script](https://github.com/iAmG-r00t/whackyscripts/blob/main/git-rundo
 
 ## Images
 
-![image](https://user-images.githubusercontent.com/70489395/232953646-8b6e9b9b-8e60-4511-b9ec-7f22803a84e9.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/70489395/232953646-8b6e9b9b-8e60-4511-b9ec-7f22803a84e9.png" alt="Image_1" style="text-align:center" />
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/70489395/233020554-a6d56284-a623-4ed3-9a90-d1bc6e3112e7.png" alt="Image_2" style="text-align:center" />
+</p>
 
 !! Enjoy !!
