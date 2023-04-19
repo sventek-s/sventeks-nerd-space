@@ -85,7 +85,7 @@ defaults:
       path: ""
       type: "pages"
     values:
-      layout: "git-wiki-bs-united"
+      layout: "git-wiki-post"
  -
     scope:
       path: ""
@@ -96,7 +96,7 @@ defaults:
     scope:
       path: assets/blog
     values:
-      layout: "git-wiki-post"
+      layout: "git-wiki-blog"
 sass:
     style: compressed
 plugins:
