@@ -1,0 +1,16 @@
+---
+published: true
+---
+
+# Git-rundown
+
+## Background
+
+Happy new year!! So I am the kind of person facing problems then later on find ways to solve and document them. Due to lack of time I couldn't solve it as quick as possible but with OpenAi the coding was quick.
+
+So started doing vuln research last year! Where I have private repo's of several CVE. Managing them is hard but trying to see if they are updated is one thing I wanted to do.
+
+Credits to [Victoria Drake](https://victoria.dev/) the name and idea is her's from her [version](https://github.com/victoriadrake/git-rundown)
+
+Read the script you will see what it does. It is whacky but gets the job done from my end.
+

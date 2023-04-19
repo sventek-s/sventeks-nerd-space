@@ -9,6 +9,8 @@ might be a solution that can allow me to use KeepassXC and WSL2 and boom found a
 
 Read more about it [here](https://code.mendhak.com/wsl2-keepassxc-ssh/) by Mendhak but he is using [Npiperelay](https://github.com/jstarks/npiperelay) and socat to do all the magic.
 
+Keeagent with [wsl](https://code.mendhak.com/keeagent-with-wsl/) by Mendhak.
+
 ## Setup
 
 `Npiperelay` allows named pipes to communicate between Linux in WSL and Windows.

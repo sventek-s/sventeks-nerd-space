@@ -22,7 +22,7 @@ Here comes the hack I found on [stackoverflow](https://stackoverflow.com/a/44036
   path = ~/.sventek.gitconfig
 
 [core]
-  editor = /usr/local/bin/vim
+  editor = /usr/bin/vim
   excludesfile = /home/null/.gitignore
 
 # --- .iAmG-r00t.gitconfig --- #
@@ -58,7 +58,7 @@ Host github.com
 
 # second user sventek
 Host sventek-github.com
-     Hostname github.com
+     Hostname sventek-github.com
      User git
      PreferredAuthentications publickey
      IdentityFile ~/path/to/ssh/private-key
@@ -70,5 +70,9 @@ Example;
 
 - Original from github will look like this; `git@github.com:sventek-s/sventeks-nerd-space.git`
 - Edited; `git@sventek-github.com:sventek-s/sventek-s-wiki.git`
+
+command to change remote url origin: `git remote set-url origin git@sventek-github.com:sventek-s/sventek-s-wiki.git`
+
+confirm if change has been made: `git remote show origin`
 
 **[UPDATE]** Added a global gitignore file.
