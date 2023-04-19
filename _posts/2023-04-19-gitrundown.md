@@ -12,5 +12,10 @@ So started doing vuln research last year! Where I have private repo's of several
 
 Credits to [Victoria Drake](https://victoria.dev/) the name and idea is her's from her [version](https://github.com/victoriadrake/git-rundown)
 
-Read the script you will see what it does. It is whacky but gets the job done from my end.
+Read the [script](https://github.com/iAmG-r00t/whackyscripts/blob/main/git-rundown/gitrundown.sh) you will see what it does. It is whacky but gets the job done from my end.
 
+## Images
+
+![image](https://user-images.githubusercontent.com/70489395/232953646-8b6e9b9b-8e60-4511-b9ec-7f22803a84e9.png)
+
+!! Enjoy !!
