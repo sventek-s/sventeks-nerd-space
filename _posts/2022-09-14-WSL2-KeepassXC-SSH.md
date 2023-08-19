@@ -53,7 +53,7 @@ An option to have SSH Identities from KeePassXC to work on Git Bash and  MYSYS2 
 * Install `winssh-pageant` on Windows using winget: `winget install winssh-pageant`
 * Install `ssh-pageant` on MYSYS2 using pacman: `pacman -S ssh-pageant`
 * Confirm if its running: `C:\Users\hiro\AppData\Local\Programs\WinSSH-Pageant>winssh-pageant.exe`
-* Add below test to `~/.bash_profile` (in both Git Bash and MYSYS2 shell)
+* Add below text to `~/.bash_profile` (in both Git Bash and MYSYS2 shell)
 * `Enable SSH Agent intergration` and set `Use both agents` in KeePassXC -> Tools -> Settings -> SSH Agent
 * Restart both shells and KeePassXC
 
