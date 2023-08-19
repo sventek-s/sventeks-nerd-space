@@ -62,7 +62,7 @@ Or if you just want *git* on Git Bash in Windows to use Windows OpenSSH Agent yo
 
 `git config --global --add core.sshCommand C:/Windows/System32/OpenSSH/ssh.exe`
 
-### Resources to Read on `SSH-Agent` and `SSH-Add`
+### Resources to Read
 
 - [Chaotic Windows ssh-agent situation](https://qiita.com/slotport/items/e1d5a5dbd3aa7c6a2a24)
 - [Using win-ssh-agent with MSYS2](https://misohena.jp/blog/2022-11-06-use-win-ssh-agent-with-msys2.html) *Not really related but some good insights*
