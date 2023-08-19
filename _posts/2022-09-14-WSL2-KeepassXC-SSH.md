@@ -52,7 +52,7 @@ So if you want Git Bash on Windows to use Windows OpenSSH Agent you can set the 
 
 `git config --global --add core.sshCommand C:/Windows/System32/OpenSSH/ssh.exe`
 
-But still working on how to get Windows OpenSSH client to work on Git Bash and MYSYS2.
+But still working on how to get Windows OpenSSH client to work on Git Bash or MYSYS2.
 
 ### Resources to Read on `SSH-Agent` and `SSH-Add`
 
