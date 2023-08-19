@@ -48,14 +48,23 @@ Also make sure to `Enable SSH Agent intergration` and set `Use OpenSSH` in KeePa
 
 ## Update
 
-So if you want Git Bash on Windows to use Windows OpenSSH Agent you can set the below git global config.
+An option to have SSH Identities from KeePassXC to work on Git Bash and  MYSYS2 on Windows follow the below steps:
+
+Install `winssh-pageant` on Windows using via winget: `winget install winssh-pageant`
+Confirm if its running: `C:\Users\hiro\AppData\Local\Programs\WinSSH-Pageant>winssh-pageant.exe`
+Add this: `eval $(/usr/bin/ssh-pageant -r -a "/tmp/.ssh-pageant-$USERNAME")` to `~/.bash_profile` (in both Git Bash and MYSYS2 shell)
+`Enable SSH Agent intergration` and set `Use both agents` in KeePassXC -> Tools -> Settings -> SSH Agent
+Restart both shells and KeePassXC
+
+NOTE: KeePAssXC will take a while so be patient with it.
+
+Or if you just want *git* on Git Bash in Windows to use Windows OpenSSH Agent you can set the below git global config.
 
 `git config --global --add core.sshCommand C:/Windows/System32/OpenSSH/ssh.exe`
-
-But still working on how to get Windows OpenSSH client to work on Git Bash or MYSYS2.
 
 ### Resources to Read on `SSH-Agent` and `SSH-Add`
 
 - [Chaotic Windows ssh-agent situation](https://qiita.com/slotport/items/e1d5a5dbd3aa7c6a2a24)
 - [Using win-ssh-agent with MSYS2](https://misohena.jp/blog/2022-11-06-use-win-ssh-agent-with-msys2.html) *Not really related but some good insights*
 - [Understanding ssh-agent and ssh-add](http://blog.joncairns.com/2013/12/understanding-ssh-agent-and-ssh-add/)
+- [Managing ssh private key with KeePassXC and cooperating with ssh-agent ~ Software for Pageant and Git for Windows ~](https://hiro20180901.com/2023/02/13/keepassxc-ssh-agent-pageant-software-and-git-for-windows/)
