@@ -43,5 +43,19 @@ fi
 
 Now you are done.
 
-Do make sure to set `OpenSSH Authentication Agent` service `Start type` to `Automatic`.
+Do make sure to set `OpenSSH Authentication Agent` service `Start type` to `Automatic (Delayed Start)`.
 Also make sure to `Enable SSH Agent intergration` and set `Use OpenSSH` in KeePassXC -> Tools -> Settings -> SSH Agent.
+
+## Update
+
+So if you want Git Bash on Windows to use Windows OpenSSH Agent you can set the below git global config.
+
+`git config --global --add core.sshCommand C:/Windows/System32/OpenSSH/ssh.exe`
+
+But still working on how to get Windows OpenSSH client to work on Git Bash and MYSYS2.
+
+### Resources to Read on `SSH-Agent` and `SSH-Add`
+
+- [Chaotic Windows ssh-agent situation](https://qiita.com/slotport/items/e1d5a5dbd3aa7c6a2a24)
+- [Using win-ssh-agent with MSYS2](https://misohena.jp/blog/2022-11-06-use-win-ssh-agent-with-msys2.html) *Not really related but some good insights*
+- [Understanding ssh-agent and ssh-add](http://blog.joncairns.com/2013/12/understanding-ssh-agent-and-ssh-add/)
