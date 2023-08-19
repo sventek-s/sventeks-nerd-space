@@ -43,19 +43,19 @@ fi
 
 Now you are done.
 
-Do make sure to set `OpenSSH Authentication Agent` service `Start type` to `Automatic (Delayed Start)`.
-Also make sure to `Enable SSH Agent intergration` and set `Use OpenSSH` in KeePassXC -> Tools -> Settings -> SSH Agent.
+- Do make sure to set `OpenSSH Authentication Agent` service `Start type` to `Automatic (Delayed Start)`.
+- Also make sure to `Enable SSH Agent intergration` and set `Use OpenSSH` in KeePassXC -> Tools -> Settings -> SSH Agent.
 
 ## Update
 
 An option to have SSH Identities from KeePassXC to work on Git Bash and  MYSYS2 on Windows follow the below steps:
 
-Install `winssh-pageant` on Windows using winget: `winget install winssh-pageant`
-Install `ssh-pageant` on MYSYS2 using pacman: `pacman -S ssh-pageant`
-Confirm if its running: `C:\Users\hiro\AppData\Local\Programs\WinSSH-Pageant>winssh-pageant.exe`
-Add this: `eval $(/usr/bin/ssh-pageant -r -a "/tmp/.ssh-pageant-$USERNAME")` to `~/.bash_profile` (in both Git Bash and MYSYS2 shell)
-`Enable SSH Agent intergration` and set `Use both agents` in KeePassXC -> Tools -> Settings -> SSH Agent
-Restart both shells and KeePassXC
+* Install `winssh-pageant` on Windows using winget: `winget install winssh-pageant`
+* Install `ssh-pageant` on MYSYS2 using pacman: `pacman -S ssh-pageant`
+* Confirm if its running: `C:\Users\hiro\AppData\Local\Programs\WinSSH-Pageant>winssh-pageant.exe`
+* Add this: `eval $(/usr/bin/ssh-pageant -r -a "/tmp/.ssh-pageant-$USERNAME")` to `~/.bash_profile` (in both Git Bash and MYSYS2 shell)
+* `Enable SSH Agent intergration` and set `Use both agents` in KeePassXC -> Tools -> Settings -> SSH Agent
+* Restart both shells and KeePassXC
 
 NOTE: KeePAssXC will take a while so be patient with it.
 
