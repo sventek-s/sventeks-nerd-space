@@ -60,6 +60,7 @@ An option to have SSH Identities from KeePassXC to work on Git Bash and  MYSYS2 
 * Restart both shells and KeePassXC
 
 ```sh
+# share SSH-Key Sessions from KepassXC via ssh-pageant
 ps x | grep ssh-pageant 1>/dev/null
 if [[ "$?" -eq 1 ]]; then
   # ssh-pageant
