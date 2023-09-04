@@ -2,7 +2,9 @@
 published: true
 ---
 
-# How to use KeepassXC to serve SSH keys to WSL2 and Ubuntu
+# How to use KeepassXC to serve SSH keys to WSL2 and Windows GitBash
+
+## WSL2 Configuration
 
 I am back on windows and I don't want to spin up linux VMs to do file editing stuff. In linux I use KeepassXC which has a windows client so I thought there
 might be a solution that can allow me to use KeepassXC and WSL2 and boom found a solution.
@@ -46,20 +48,27 @@ Now you are done.
 - Do make sure to set `OpenSSH Authentication Agent` service `Start type` to `Automatic (Delayed Start)`.
 - Also make sure to `Enable SSH Agent intergration` and set `Use OpenSSH` in KeePassXC -> Tools -> Settings -> SSH Agent.
 
-## Update
+## Windows GitBash/MYSYS2 Configuration
 
 An option to have SSH Identities from KeePassXC to work on Git Bash and  MYSYS2 on Windows follow the below steps:
 
 * Install `winssh-pageant` on Windows using winget: `winget install winssh-pageant`
 * Install `ssh-pageant` on MYSYS2 using pacman: `pacman -S ssh-pageant`
 * Confirm if its running: `C:\Users\hiro\AppData\Local\Programs\WinSSH-Pageant>winssh-pageant.exe`
-* Add below text to `~/.bash_profile` (in both Git Bash and MYSYS2 shell)
+* Add below script text to `~/.bash_profile` for Git Bash and `eval $(/usr/bin/ssh-pageant -r -a "/tmp/.ssh-pageant-$USERNAME")` for MYSYS2 shell
 * `Enable SSH Agent intergration` and set `Use both agents` in KeePassXC -> Tools -> Settings -> SSH Agent
 * Restart both shells and KeePassXC
 
 ```sh
-# ssh-pageant
-eval $(/usr/bin/ssh-pageant -r -a "/tmp/.ssh-pageant-$USERNAME")
+ps x | grep ssh-pageant 1>/dev/null
+if [[ "$?" -eq 1 ]]; then
+  # ssh-pageant
+  eval $(/usr/bin/ssh-pageant -r -a "/tmp/.ssh-pageant-$USERNAME")
+else
+  ps x | grep ssh-pageant | awk '{print $1}' | xargs kill -9
+  # ssh-pageant
+  eval $(/usr/bin/ssh-pageant -r -a "/tmp/.ssh-pageant-$USERNAME")
+fi
 ```
 
 NOTE: KeePAssXC will take a while so be patient with it.
