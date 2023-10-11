@@ -66,9 +66,8 @@ if [[ "$?" -eq 1 ]]; then
   # ssh-pageant
   eval $(/usr/bin/ssh-pageant -r -a "/tmp/.ssh-pageant-$USERNAME")
 else
-  ps x | grep ssh-pageant | awk '{print $1}' | xargs kill -9
-  # ssh-pageant
-  eval $(/usr/bin/ssh-pageant -r -a "/tmp/.ssh-pageant-$USERNAME")
+  # export existing SSH AUTH SOCKET file
+  export SSH_AUTH_SOCK="/tmp/.ssh-pageant-$USERNAME"
 fi
 ```
 
