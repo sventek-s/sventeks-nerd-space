@@ -43,11 +43,12 @@ Then Enable (Turn off Microsoft Defender Antivirus)
 [Source](https://support.waters.com/KB_Inf/MassLynx/WKB203790_How_to_disable_Real_Time_Protection_in_Windows_10)
 
 Computer Configuration -> Administrative Templates -> Windows Components -> Microsoft Defender Antivirus -> Real-time Protection
+
 Then Enable (Turn off real-time protection)
 
 ### Automatic Updates
 
-Computer Configuration -> Administrative Templates -> Windows Components -> Windows Update
+Computer Configuration -> Administrative Templates -> Windows Components -> Windows Update -> Manage end user experience
 
 Then Disable (Configure Automatic Updates)
 
