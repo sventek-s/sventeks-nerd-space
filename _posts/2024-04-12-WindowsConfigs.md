@@ -46,6 +46,13 @@ Computer Configuration -> Administrative Templates -> Windows Components -> Micr
 
 Then Enable (Turn off real-time protection)
 
+#### Microsoft Defender Automatic Sample Submission and Cloud-deliverance Protection
+
+Disable the following from Virus & threat protection settings in Windows Security
+
+- Cloud-delivered protection
+- Automatic sample submission
+
 ### Automatic Updates
 
 Computer Configuration -> Administrative Templates -> Windows Components -> Windows Update -> Manage end user experience
