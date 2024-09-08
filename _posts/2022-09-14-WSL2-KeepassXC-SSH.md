@@ -54,7 +54,7 @@ An option to have SSH Identities from KeePassXC to work on Git Bash and  MYSYS2 
 
 Verify OpenSSH Server and Client for Windows have been installed by running the following command in an elevated PowerShell instance.
 
-```ps
+```powershell
 Get-WindowsCapability -Online | ? Name -like 'OpenSSH*'
 ```
 
@@ -67,7 +67,7 @@ dism.exe /online /add-capability /capabilityName:OpenSSH.Server~~~~0.0.1.0
 
 Once that is done, enable startup as automatic for both the client and server:
 
-```ps
+```powershell
 Set-Service -Name ssh-agent -StartupType Automatic
 Set-Service -Name sshd -StartupType Automatic
 
