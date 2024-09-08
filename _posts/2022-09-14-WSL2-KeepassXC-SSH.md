@@ -52,6 +52,28 @@ Now you are done.
 
 An option to have SSH Identities from KeePassXC to work on Git Bash and  MYSYS2 on Windows follow the below steps:
 
+Verify OpenSSH Server and Client for Windows have been installed by running the following command in an elevated PowerShell instance.
+
+```ps
+Get-WindowsCapability -Online | ? Name -like 'OpenSSH*'
+```
+
+If they aren't installed, run the following commands in an elevated command prompt.
+
+```
+dism.exe /online /add-capability /capabilityName:OpenSSH.Client~~~~0.0.1.0
+dism.exe /online /add-capability /capabilityName:OpenSSH.Server~~~~0.0.1.0
+```
+
+Once that is done, enable startup as automatic for both the client and server:
+
+```ps
+Set-Service -Name ssh-agent -StartupType Automatic
+Set-Service -Name sshd -StartupType Automatic
+```
+
+Then do the following:
+
 * Install `winssh-pageant` on Windows using winget: `winget install winssh-pageant`
 * Install `ssh-pageant` on MYSYS2 using pacman: `pacman -S ssh-pageant`
 * Confirm if its running: `C:\Users\hiro\AppData\Local\Programs\WinSSH-Pageant>winssh-pageant.exe`
