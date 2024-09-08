@@ -70,6 +70,10 @@ Once that is done, enable startup as automatic for both the client and server:
 ```ps
 Set-Service -Name ssh-agent -StartupType Automatic
 Set-Service -Name sshd -StartupType Automatic
+
+# Start them
+Start-Service -Name ssh-agent
+Start-Service -Name sshd
 ```
 
 Then do the following:
