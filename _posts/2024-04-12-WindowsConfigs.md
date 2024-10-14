@@ -51,7 +51,16 @@ Then Enable (Turn off real-time protection)
 Disable the following from Virus & threat protection settings in Windows Security
 
 - Cloud-delivered protection
+
+Computer Configuration -> Administrative Templates-> Windows Components -> Microsoft Defender Antivirus -> MAPS
+
+Then Enable (Join Microsoft MAPS) under options set to `Disabled`.
+
 - Automatic sample submission
+
+Computer Configuration -> Administrative Templates-> Windows Components -> Microsoft Defender Antivirus -> MAPS
+
+Then Enable (Send file samples when further analysis is required) under options set to `Never send`.
 
 ### Automatic Updates
 
