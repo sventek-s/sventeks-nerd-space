@@ -4,7 +4,7 @@ published: true
 
 # WinMerge Diffing Jar Files (Unzip, Decompile, then Diff)
 
-> Credits to [@MCKSys Argentina a.k.a MCKSysAr](https://x.com/MCKSysAr/status/1682373126833799169) for this sorcery.
+> Credits to [@MCKSysAr](https://x.com/MCKSysAr/status/1682373126833799169) for this sorcery.
 
 Follow the below steps:
 
