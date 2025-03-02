@@ -23,7 +23,7 @@ To get tmux on Windows Terminal follow the below steps:
    }
    ```
 7. Close all the windows then start them once more.
-8. Use this [tmux.conf](https://github.com/iAmG-r00t/dotfiles/blob/master/server/tmux.conf) config.
+8. Use this [tmux.conf](../.files/tmux.conf) config.
 
 ## Credits / References
 
